@@ -8,3 +8,4 @@
 # MEDIASEMESTRAL.ALG média escolar calculada, tanto numerica quanto por letra, usando "se".
 # GOLEADA.ALG calcula a diferença de ponto entre os times e diz qual definição da partida, usando "se" e # "escolha".
 # CONTEATE10.ALG contagem progressiva usando "enquanto".
+# SOMADORNUMERICO.ALG usando o enquanto, precisa ser corrigido pois nao deu certo o menor.
